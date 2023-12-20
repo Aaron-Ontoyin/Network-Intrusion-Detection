@@ -158,3 +158,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Ignore the full data except the train and test fields
+data/NUSW-NB15_features.csv
+data/UNSW-NB15_1.csv
+data/UNSW-NB15_2.csv
+data/UNSW-NB15_3.csv
+data/UNSW-NB15_4.csv
+data/UNSW-NB15_LIST_EVENTS.csv
